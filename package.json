@@ -1,0 +1,29 @@
+{
+  "name": "seddebitis",
+  "version": "1.0.0",
+  "description": "Define and insert CSS via javascript. This also generates unique class and id names automatically. Handy when using virtual-dom (or react) inline css as your primary styling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RogelioVolkman/seddebitis.git"
+  },
+  "keywords": [
+    "css",
+    "nisi",
+    "minus",
+    "inventore",
+    "laborum"
+  ],
+  "author": "EdnaKuhic",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "dependencies": {
+    "gen-css-identifier": "^1.0.0",
+    "insert-css": "^0.2.0"
+  }
+}
